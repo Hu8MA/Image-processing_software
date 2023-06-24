@@ -1,0 +1,16 @@
+D:\App_imageProsses\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+D:\App_imageProsses\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+D:\App_imageProsses\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+D:\App_imageProsses\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+D:\App_imageProsses\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+D:\App_imageProsses\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+D:\App_imageProsses\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+D:\App_imageProsses\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.Form1.resources
+D:\App_imageProsses\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.GenerateResource.cache
+D:\App_imageProsses\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\App_imageProsses\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+D:\App_imageProsses\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+D:\App_imageProsses\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+D:\App_imageProsses\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+D:\App_imageProsses\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+D:\App_imageProsses\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
